@@ -41,3 +41,5 @@ Start the server
 ```
 
 ## Deployment
+
+moveo-khaki.vercel.app
